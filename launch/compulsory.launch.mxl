@@ -1,0 +1,10 @@
+<launch>
+
+
+<!-- EXECUTE PROJECT-->
+<node
+    pkg="project" exec="project_node" output="screen">
+</node>
+
+
+</launch>
